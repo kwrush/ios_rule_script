@@ -1,4 +1,5 @@
-# Youtube adblock rewrite
+# Youtube adblock rewrite 
+# https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Rewrite/Block/YouTubeAds.conf
 hostname = -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com
 
 (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) url 302 $1&ctier=A$2
@@ -7,10 +8,5 @@ hostname = -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.yout
 ^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads url reject
 ^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) url reject
 ^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext url reject
-^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/player\/ad_ url reject
-^https?:\/\/.+?\.googlevideo\.com\/ptracking\?pltype=adhost url reject-img
-^https?:\/\/.+?\.youtube\.com\/get_midroll url reject-img
-^https?:\/\/.+?\.youtube\.com\/ptracking\? url reject-img
-^https?:\/\/m\.youtube\.com\/_get_ads url reject-img
-^https?:\/\/pagead2\.googlesyndication\.com\/pagead\/ url reject-img
-^https?:\/\/s\.youtube\.com\/api\/stats\/watchtime?adformat url reject-img
+
+^https?:\/\/s\.youtube\.com\/api\/stats\/watchtime\?adformat url reject-img
