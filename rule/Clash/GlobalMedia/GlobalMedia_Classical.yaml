@@ -1,16 +1,17 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:16:53
-# DOMAIN: 35
+# UPDATED: 2025-12-08 02:08:06
+# DOMAIN: 37
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 1270
+# DOMAIN-SUFFIX: 1275
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
-# TOTAL: 2258
+# TOTAL: 2265
 payload:
   - DOMAIN,ai.google.dev
+  - DOMAIN,aistudio.google.com
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.githubcopilot.com
   - DOMAIN,api.groq.com
@@ -41,6 +42,7 @@ payload:
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
+  - DOMAIN,notebooklm.google.com
   - DOMAIN,ocvideo.apple.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
@@ -180,6 +182,8 @@ payload:
   - DOMAIN-SUFFIX,chocotv.com.tw
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cnbc.com
   - DOMAIN-SUFFIX,cnbcfm.com
@@ -202,6 +206,8 @@ payload:
   - DOMAIN-SUFFIX,cstatic.net
   - DOMAIN-SUFFIX,curbed.com
   - DOMAIN-SUFFIX,curiositystream.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cwseed.com
   - DOMAIN-SUFFIX,cwtv.com
   - DOMAIN-SUFFIX,d9.flashtalking.com
@@ -683,6 +689,7 @@ payload:
   - DOMAIN-SUFFIX,japronx.net
   - DOMAIN-SUFFIX,japronx.tv
   - DOMAIN-SUFFIX,japronx.vip
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,joeswall.com
   - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,joox.com
@@ -965,7 +972,6 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,soccermatchpass.com
   - DOMAIN-SUFFIX,socdm.com
-  - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,sorcerersarena.com
   - DOMAIN-SUFFIX,soundcloud.app.goo.gl
   - DOMAIN-SUFFIX,soundcloud.com
@@ -1123,6 +1129,7 @@ payload:
   - DOMAIN-SUFFIX,woflthenewsstation.com
   - DOMAIN-SUFFIX,wogx.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
+  - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,yb.uncn.jp
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,z5.app

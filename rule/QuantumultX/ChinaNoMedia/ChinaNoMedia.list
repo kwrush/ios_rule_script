@@ -1,18 +1,19 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:18:25
-# HOST: 17
+# UPDATED: 2025-12-08 02:09:36
+# HOST: 20
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3585
+# HOST-SUFFIX: 3587
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3658
+# TOTAL: 3663
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
+HOST,cdn.lilyemby.com,ChinaNoMedia
 HOST,client.amplifi.com,ChinaNoMedia
 HOST,download.jetbrains.com,ChinaNoMedia
 HOST,download.microsoft.com,ChinaNoMedia
@@ -22,8 +23,10 @@ HOST,kc.kexinshe.com,ChinaNoMedia
 HOST,ntservicepack.microsoft.com,ChinaNoMedia
 HOST,origin-a.akamaihd.ne,ChinaNoMedia
 HOST,origin-a.akamaihd.net,ChinaNoMedia
+HOST,smart.uhdnow.com,ChinaNoMedia
 HOST,sms.imagetasks.com,ChinaNoMedia
 HOST,steamcommunity-a.akamaihd.net,ChinaNoMedia
+HOST,tx.lilyemby.com,ChinaNoMedia
 HOST,weixin.com,ChinaNoMedia
 HOST,www.libvideo.com,ChinaNoMedia
 HOST,www.yxssp.com,ChinaNoMedia
@@ -1902,6 +1905,7 @@ HOST-SUFFIX,jiayuan.com,ChinaNoMedia
 HOST-SUFFIX,jiazhao.com,ChinaNoMedia
 HOST-SUFFIX,jibencaozuo.com,ChinaNoMedia
 HOST-SUFFIX,jidian.im,ChinaNoMedia
+HOST-SUFFIX,jiedaibao.gs,ChinaNoMedia
 HOST-SUFFIX,jiemeng8.com,ChinaNoMedia
 HOST-SUFFIX,jiemian.com,ChinaNoMedia
 HOST-SUFFIX,jikeiot.cloud,ChinaNoMedia
@@ -2187,6 +2191,7 @@ HOST-SUFFIX,lxdns.org,ChinaNoMedia
 HOST-SUFFIX,lxjapp.com,ChinaNoMedia
 HOST-SUFFIX,lxway.com,ChinaNoMedia
 HOST-SUFFIX,ly.com,ChinaNoMedia
+HOST-SUFFIX,m-team.cc,ChinaNoMedia
 HOST-SUFFIX,m1.run,ChinaNoMedia
 HOST-SUFFIX,m6.run,ChinaNoMedia
 HOST-SUFFIX,m9.run,ChinaNoMedia
@@ -2429,7 +2434,6 @@ HOST-SUFFIX,oneyac.com,ChinaNoMedia
 HOST-SUFFIX,onlinedown.net,ChinaNoMedia
 HOST-SUFFIX,onlinesjtu.com,ChinaNoMedia
 HOST-SUFFIX,onlylady.com,ChinaNoMedia
-HOST-SUFFIX,ooklaserver.net,ChinaNoMedia
 HOST-SUFFIX,opdown.com,ChinaNoMedia
 HOST-SUFFIX,open.cd,ChinaNoMedia
 HOST-SUFFIX,openapp.run,ChinaNoMedia
@@ -2613,6 +2617,7 @@ HOST-SUFFIX,qnssl.com,ChinaNoMedia
 HOST-SUFFIX,qq.cn.com,ChinaNoMedia
 HOST-SUFFIX,qq.com,ChinaNoMedia
 HOST-SUFFIX,qq.design,ChinaNoMedia
+HOST-SUFFIX,qq.net,ChinaNoMedia
 HOST-SUFFIX,qq.wang,ChinaNoMedia
 HOST-SUFFIX,qq.xn--fiqs8s,ChinaNoMedia
 HOST-SUFFIX,qq163.com,ChinaNoMedia

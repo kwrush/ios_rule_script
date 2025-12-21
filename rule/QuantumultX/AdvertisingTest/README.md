@@ -21,17 +21,17 @@
 
 ## 规则统计
 
-最后更新时间：2025-07-18 02:05:54
+最后更新时间：2025-12-20 02:06:10
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 13175  | 
-| HOST-KEYWORD | 279  | 
-| HOST-SUFFIX | 199147  | 
-| IP-CIDR | 507  | 
+| HOST | 13142  | 
+| HOST-KEYWORD | 280  | 
+| HOST-SUFFIX | 226600  | 
+| IP-CIDR | 508  | 
 | IP6-CIDR | 3  | 
-| TOTAL | 213111  | 
+| TOTAL | 240533  | 
 
 
 ## QuantumultX 
@@ -115,7 +115,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://easylist-downloads.adblockplus.org/easyprivacy.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Adblock/Adblock.list
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
-- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

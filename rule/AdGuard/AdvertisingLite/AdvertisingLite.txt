@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2025-07-18 02:03:44
-! Total: 37689
+! Updated: 2025-12-20 02:03:56
+! Total: 37692
 
 
 ||00-gov.cn^
@@ -4647,6 +4647,7 @@
 ||analyticswizard.com^
 ||analytk.com^
 ||analyze.full-marke.com^
+||analyzer51.fc2.com^
 ||analyzer52.fc2.com^
 ||anametrix.com^
 ||anametrix.net^
@@ -8390,6 +8391,7 @@
 ||cloudcoins.co^
 ||cloudflare.solutions^
 ||cloudflareinsights.com^
+||cloudfront-labs.amazonaws.com^
 ||cloudiiv.com^
 ||cloudioo.net^
 ||cloudmade.com^
@@ -9001,6 +9003,7 @@
 ||counter.zerohedge.com^
 ||counter.zone.ee^
 ||counter160.com^
+||counter2.blog.livedoor.com^
 ||counter2.condenast.it^
 ||counter27.ch^
 ||counterbot.com^
@@ -10841,7 +10844,6 @@
 ||dnyjhikistbhvg.com^
 ||dnzevkqpk.com^
 ||dnzwjlbknhe.com^
-||do-not-tracker.org^
 ||do09.net^
 ||do69ifsly4.me^
 ||doa1.immobilier-neuf.com^
@@ -12462,7 +12464,6 @@
 ||evghlumwjasu.com^
 ||evgywgur.com^
 ||eviclick.pro^
-||eviltracker.net^
 ||evisit.exeter.ac.uk^
 ||evisitanalyst.com^
 ||evlpfjro.com^
@@ -14448,6 +14449,7 @@
 ||gnpge.com^
 ||gntzacjc.com^
 ||gnuxgnnkflvkm.com^
+||go-mpulse.net^
 ||go-quicky.com^
 ||go.10086.cn^
 ||go.bestmobiworld.com^
@@ -14797,6 +14799,7 @@
 ||gtnmyddlf.com^
 ||gtop.ro^
 ||gtopstats.com^
+||gtrk.s3.amazonaws.com^
 ||gts-ads.twistbox.com^
 ||gtsads.com^
 ||gtsgdddss.com^
@@ -24802,7 +24805,6 @@
 ||pixel.newscgp.com^
 ||pixel.newsdiscover.com.au^
 ||pixel.pcworld.com^
-||pixel.propublica.org^
 ||pixel.prosieben.de^
 ||pixel.quantserve.com^
 ||pixel.reddit.com^
@@ -30011,6 +30013,7 @@
 ||stats.videodelivery.net^
 ||stats.visistat.com^
 ||stats.webstarts.com^
+||stats.wp.com^
 ||stats.wwd.com^
 ||stats.yinyuetai.com^
 ||stats.ynet.co.il^
@@ -31699,7 +31702,6 @@
 ||tracker.wordstream.com^
 ||tracker.yhd.com^
 ||trackercollect.ddxq.mobi^
-||trackersimulator.org^
 ||trackerstatistik.init-ag.de^
 ||trackertest.org^
 ||trackfeed.com^
@@ -31846,6 +31848,7 @@
 ||trafficforce.com^
 ||trafficformoney.com^
 ||trafficfuel.com^
+||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||trafficgrowth.com^
 ||traffichaus.com^
 ||trafficholder.com^

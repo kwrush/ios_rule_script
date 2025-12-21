@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-16 02:03:39
+# UPDATED: 2025-12-08 02:03:37
 # HOST: 23753
 # HOST-KEYWORD: 187
-# HOST-SUFFIX: 13936
+# HOST-SUFFIX: 13939
 # IP-CIDR: 186
 # IP6-CIDR: 1
-# TOTAL: 38063
+# TOTAL: 38066
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -25875,6 +25875,7 @@ HOST-SUFFIX,analytics3.starschina.com,AdvertisingLite
 HOST-SUFFIX,analyticsengine.s3.amazonaws.com,AdvertisingLite
 HOST-SUFFIX,analyticsv2.dol.gr,AdvertisingLite
 HOST-SUFFIX,analyze.full-marke.com,AdvertisingLite
+HOST-SUFFIX,analyzer51.fc2.com,AdvertisingLite
 HOST-SUFFIX,analyzer52.fc2.com,AdvertisingLite
 HOST-SUFFIX,anastasiaana.com,AdvertisingLite
 HOST-SUFFIX,anatomicele.site,AdvertisingLite
@@ -27305,6 +27306,7 @@ HOST-SUFFIX,clotfun.online,AdvertisingLite
 HOST-SUFFIX,cloud.zyiis.net,AdvertisingLite
 HOST-SUFFIX,cloudad.asia,AdvertisingLite
 HOST-SUFFIX,cloudcdn.dopa.com.cn,AdvertisingLite
+HOST-SUFFIX,cloudfront-labs.amazonaws.com,AdvertisingLite
 HOST-SUFFIX,cloudmobi.net,AdvertisingLite
 HOST-SUFFIX,cloudpush.iqiyi.com,AdvertisingLite
 HOST-SUFFIX,clubpenguinclub.com,AdvertisingLite
@@ -27548,6 +27550,7 @@ HOST-SUFFIX,counter.tovarro.com,AdvertisingLite
 HOST-SUFFIX,counter.wapstart.ru,AdvertisingLite
 HOST-SUFFIX,counter.yesky.com,AdvertisingLite
 HOST-SUFFIX,counter.zerohedge.com,AdvertisingLite
+HOST-SUFFIX,counter2.blog.livedoor.com,AdvertisingLite
 HOST-SUFFIX,counter2.condenast.it,AdvertisingLite
 HOST-SUFFIX,countersys.cn,AdvertisingLite
 HOST-SUFFIX,countertrck.com,AdvertisingLite
@@ -28221,7 +28224,6 @@ HOST-SUFFIX,dn7788.com,AdvertisingLite
 HOST-SUFFIX,dnfeu.com,AdvertisingLite
 HOST-SUFFIX,dnskuu.com,AdvertisingLite
 HOST-SUFFIX,dnvus.com,AdvertisingLite
-HOST-SUFFIX,do-not-tracker.org,AdvertisingLite
 HOST-SUFFIX,do69ifsly4.me,AdvertisingLite
 HOST-SUFFIX,doa1.immobilier-neuf.com,AdvertisingLite
 HOST-SUFFIX,docerad.wps.cn,AdvertisingLite
@@ -28763,7 +28765,6 @@ HOST-SUFFIX,events.kalooga.com,AdvertisingLite
 HOST-SUFFIX,events.pingan.com,AdvertisingLite
 HOST-SUFFIX,events.secureserver.net,AdvertisingLite
 HOST-SUFFIX,eventurypol.site,AdvertisingLite
-HOST-SUFFIX,eviltracker.net,AdvertisingLite
 HOST-SUFFIX,evisit.exeter.ac.uk,AdvertisingLite
 HOST-SUFFIX,evt.izooto.com,AdvertisingLite
 HOST-SUFFIX,evt.klarna.com,AdvertisingLite
@@ -29463,6 +29464,7 @@ HOST-SUFFIX,gnativestreesaga.site,AdvertisingLite
 HOST-SUFFIX,gneusqa.cn,AdvertisingLite
 HOST-SUFFIX,gnmbd.top,AdvertisingLite
 HOST-SUFFIX,gnncc.cc,AdvertisingLite
+HOST-SUFFIX,go-mpulse.net,AdvertisingLite
 HOST-SUFFIX,go.10086.cn,AdvertisingLite
 HOST-SUFFIX,go.hangzhou.com.cn,AdvertisingLite
 HOST-SUFFIX,go.onclasrv.com,AdvertisingLite
@@ -29573,6 +29575,7 @@ HOST-SUFFIX,gtiou.com,AdvertisingLite
 HOST-SUFFIX,gtmsdd.alicdn.com,AdvertisingLite
 HOST-SUFFIX,gtmucs.cn,AdvertisingLite
 HOST-SUFFIX,gtnde.com,AdvertisingLite
+HOST-SUFFIX,gtrk.s3.amazonaws.com,AdvertisingLite
 HOST-SUFFIX,gu.qlogo.cn,AdvertisingLite
 HOST-SUFFIX,guaas.com,AdvertisingLite
 HOST-SUFFIX,guang.lesports.com,AdvertisingLite
@@ -33192,7 +33195,6 @@ HOST-SUFFIX,pixel.naij.com,AdvertisingLite
 HOST-SUFFIX,pixel.newscgp.com,AdvertisingLite
 HOST-SUFFIX,pixel.newsdiscover.com.au,AdvertisingLite
 HOST-SUFFIX,pixel.pcworld.com,AdvertisingLite
-HOST-SUFFIX,pixel.propublica.org,AdvertisingLite
 HOST-SUFFIX,pixel.prosieben.de,AdvertisingLite
 HOST-SUFFIX,pixel.quantserve.com,AdvertisingLite
 HOST-SUFFIX,pixel.reddit.com,AdvertisingLite
@@ -34907,6 +34909,7 @@ HOST-SUFFIX,stats.twistage.com,AdvertisingLite
 HOST-SUFFIX,stats.uswitch.com,AdvertisingLite
 HOST-SUFFIX,stats.videodelivery.net,AdvertisingLite
 HOST-SUFFIX,stats.visistat.com,AdvertisingLite
+HOST-SUFFIX,stats.wp.com,AdvertisingLite
 HOST-SUFFIX,stats.wwd.com,AdvertisingLite
 HOST-SUFFIX,stats.yinyuetai.com,AdvertisingLite
 HOST-SUFFIX,stats.ynet.co.il,AdvertisingLite
@@ -35559,7 +35562,6 @@ HOST-SUFFIX,tracker.tiu.ru,AdvertisingLite
 HOST-SUFFIX,tracker.uprinting.com,AdvertisingLite
 HOST-SUFFIX,tracker.wordstream.com,AdvertisingLite
 HOST-SUFFIX,tracker.yhd.com,AdvertisingLite
-HOST-SUFFIX,trackersimulator.org,AdvertisingLite
 HOST-SUFFIX,trackerstatistik.init-ag.de,AdvertisingLite
 HOST-SUFFIX,tracking-opi.fonpit.de,AdvertisingLite
 HOST-SUFFIX,tracking-server-prod-1.zenmxapps.com,AdvertisingLite
@@ -35623,6 +35625,7 @@ HOST-SUFFIX,traffic.mogujie.com,AdvertisingLite
 HOST-SUFFIX,traffic.uusee.com,AdvertisingLite
 HOST-SUFFIX,trafficfactory.biz,AdvertisingLite
 HOST-SUFFIX,trafficforce.com,AdvertisingLite
+HOST-SUFFIX,trafficfuelpixel.s3-us-west-2.amazonaws.com,AdvertisingLite
 HOST-SUFFIX,trafficjam.cn,AdvertisingLite
 HOST-SUFFIX,trafficjunky.com,AdvertisingLite
 HOST-SUFFIX,trafficjunky.net,AdvertisingLite

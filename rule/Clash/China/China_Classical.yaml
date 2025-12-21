@@ -1,17 +1,18 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:02
-# DOMAIN: 17
+# UPDATED: 2025-12-08 02:08:15
+# DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3676
+# DOMAIN-SUFFIX: 3678
 # IP-CIDR: 17
 # IP-CIDR6: 4
-# TOTAL: 3723
+# TOTAL: 3728
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,cdn.angruo.com
+  - DOMAIN,cdn.lilyemby.com
   - DOMAIN,client.amplifi.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,download.microsoft.com
@@ -21,8 +22,10 @@ payload:
   - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,smart.uhdnow.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,tx.lilyemby.com
   - DOMAIN,weixin.com
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
@@ -1952,6 +1955,7 @@ payload:
   - DOMAIN-SUFFIX,jiazhao.com
   - DOMAIN-SUFFIX,jibencaozuo.com
   - DOMAIN-SUFFIX,jidian.im
+  - DOMAIN-SUFFIX,jiedaibao.gs
   - DOMAIN-SUFFIX,jiemeng8.com
   - DOMAIN-SUFFIX,jiemian.com
   - DOMAIN-SUFFIX,jikeiot.cloud
@@ -2243,6 +2247,7 @@ payload:
   - DOMAIN-SUFFIX,lxjapp.com
   - DOMAIN-SUFFIX,lxway.com
   - DOMAIN-SUFFIX,ly.com
+  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m1.run
   - DOMAIN-SUFFIX,m6.run
   - DOMAIN-SUFFIX,m9.run
@@ -2491,7 +2496,6 @@ payload:
   - DOMAIN-SUFFIX,onlinedown.net
   - DOMAIN-SUFFIX,onlinesjtu.com
   - DOMAIN-SUFFIX,onlylady.com
-  - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,opdown.com
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,openapp.run
@@ -2680,6 +2684,7 @@ payload:
   - DOMAIN-SUFFIX,qq.cn.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,qq.design
+  - DOMAIN-SUFFIX,qq.net
   - DOMAIN-SUFFIX,qq.wang
   - DOMAIN-SUFFIX,qq.xn--fiqs8s
   - DOMAIN-SUFFIX,qq163.com

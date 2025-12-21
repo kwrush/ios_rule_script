@@ -1,15 +1,16 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:16:53
-# DOMAIN: 35
+# UPDATED: 2025-12-08 02:08:06
+# DOMAIN: 37
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 1270
+# DOMAIN-SUFFIX: 1275
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
-# TOTAL: 2258
+# TOTAL: 2265
 ai.google.dev
+aistudio.google.com
 akmcdnoversea-tw.inter.ptqy.gitv.tv
 api.githubcopilot.com
 api.groq.com
@@ -40,6 +41,7 @@ ktpx.amazon.com
 news-client.apple.com
 news-edge.apple.com
 news-events.apple.com
+notebooklm.google.com
 ocvideo.apple.com
 rpg.pic-imges.com
 rthklive2-lh.akamaihd.net
@@ -179,6 +181,8 @@ sydney.bing.com
 .chocotv.com.tw
 .cinemax.com
 .claude.ai
+.claude.com
+.claudeusercontent.com
 .cloudfront.net
 .cnbc.com
 .cnbcfm.com
@@ -201,6 +205,8 @@ sydney.bing.com
 .cstatic.net
 .curbed.com
 .curiositystream.com
+.cursor.com
+.cursor.sh
 .cwseed.com
 .cwtv.com
 .d9.flashtalking.com
@@ -682,6 +688,7 @@ sydney.bing.com
 .japronx.net
 .japronx.tv
 .japronx.vip
+.jetbrains.ai
 .joeswall.com
 .joinmaidez.com
 .joox.com
@@ -964,7 +971,6 @@ sydney.bing.com
 .snssdk.com
 .soccermatchpass.com
 .socdm.com
-.sora.com
 .sorcerersarena.com
 .soundcloud.app.goo.gl
 .soundcloud.com
@@ -1122,6 +1128,7 @@ sydney.bing.com
 .woflthenewsstation.com
 .wogx.com
 .wwwhuluplus.com
+.x.ai
 .yb.uncn.jp
 .youboranqs01.com
 .z5.app

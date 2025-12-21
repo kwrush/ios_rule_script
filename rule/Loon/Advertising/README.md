@@ -15,18 +15,18 @@
 
 ## 规则统计
 
-最后更新时间：2025-07-18 02:04:29
+最后更新时间：2025-12-20 02:04:42
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 16549  | 
-| DOMAIN-KEYWORD | 277  | 
-| DOMAIN-SUFFIX | 178600  | 
-| IP-CIDR | 485  | 
+| DOMAIN | 16465  | 
+| DOMAIN-KEYWORD | 278  | 
+| DOMAIN-SUFFIX | 190119  | 
+| IP-CIDR | 486  | 
 | IP-CIDR6 | 3  | 
 | URL-REGEX | 14  | 
-| TOTAL | 195928  | 
+| TOTAL | 207365  | 
 
 
 ## Loon 
@@ -103,7 +103,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
-- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
